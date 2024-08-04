@@ -84,9 +84,9 @@ This project is a tool to find untaken 5-character Instagram usernames, which ar
 
 3. **Run the Script**:
     ```bash
-    python script_name.py
+    python 5lfinderbyk3s63.py
     ```
-    (Replace `script_name.py` with your actual script file name.)
+  
 
 4. **Enter Your Telegram Bot Token and Your Telegram User ID** when prompted by the script.
 
