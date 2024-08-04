@@ -30,7 +30,7 @@ This project is a tool to find untaken 5-character Instagram usernames, which ar
     ```
 4. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/instagram-5letter-username-finder.git
+    git clone https://github.com/k3s63/instagram-5letter-username-finder.git
     cd instagram-5letter-username-finder
     ```
 5. **Install the required packages**:
@@ -45,7 +45,7 @@ This project is a tool to find untaken 5-character Instagram usernames, which ar
     - Press `Win + R`, type `cmd`, and press Enter.
 3. **Clone the repository**:
     ```cmd
-    git clone https://github.com/yourusername/instagram-5letter-username-finder.git
+    git clone https://github.com/k3s63/instagram-5letter-username-finder.git
     cd instagram-5letter-username-finder
     ```
 4. **Install the required packages**:
