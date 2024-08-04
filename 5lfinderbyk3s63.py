@@ -9,7 +9,7 @@ Full license text: https://creativecommons.org/publicdomain/zero/1.0/legalcode
 
 
 
-print("\033[1;33;40m  ~ Pяσɢяαммεя • KEVIN • -> @K3S63 | Cнαиияℓ : @k3s63cc | @pythontoolgod ~")
+print("\033[1;33;40m  ~ Pяσɢяαммεя • KEVIN • -> @K3S63 | Cнαиияℓ :  @pythontoolgod ~")
 print("\x1b[1;39m","_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  ")
 print()
 
