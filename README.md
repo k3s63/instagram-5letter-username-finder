@@ -63,7 +63,7 @@ This project is a tool to find untaken 5-character Instagram usernames, which ar
     ```
 3. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/instagram-5letter-username-finder.git
+    git clone https://github.com/k3s63/instagram-5letter-username-finder.git
     cd instagram-5letter-username-finder
     ```
 4. **Install the required packages**:
@@ -75,9 +75,8 @@ This project is a tool to find untaken 5-character Instagram usernames, which ar
 
 1. **Run the script**:
     ```bash
-    python script_name.py
+    python 5lfinderbyk3s63.py
     ```
-    (Replace `script_name.py` with your actual script file name.)
 
 2. **Enter your Telegram bot token and your Telegram user ID** when prompted.
 
@@ -90,4 +89,4 @@ Full license text: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/l
 ## Contact
 
 - Programmer: KEVIN ([@K3S63](https://t.me/K3S63))
-- Channel: [@k3s63cc](https://t.me/k3s63), [@pythontoolgod](https://t.me/pythontoolgod)
+- Channel: [@pythontoolgod](https://t.me/pythontoolgod)
