@@ -1,3 +1,13 @@
+"""
+instagram-5letter-username-finder
+
+This project is dedicated to the public domain under the Creative Commons Zero (CC0) 1.0 Universal License.
+You can copy, modify, distribute, and perform the work, even for commercial purposes, all without asking permission.
+
+Full license text: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+"""
+
+
 
 print("\033[1;33;40m  ~ Pяσɢяαммεя • KEVIN • -> @K3S63 | Cнαиияℓ : @k3s63cc | @pythontoolgod ~")
 print("\x1b[1;39m","_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  ")
