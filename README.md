@@ -90,4 +90,4 @@ Full license text: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/l
 ## Contact
 
 - Programmer: KEVIN ([@K3S63](https://t.me/K3S63))
-- Channel: [@k3s63cc](https://t.me/k3s63cc), [@pythontoolgod](https://t.me/pythontoolgod)
+- Channel: [@k3s63cc](https://t.me/k3s63), [@pythontoolgod](https://t.me/pythontoolgod)
